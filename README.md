@@ -1,2 +1,2 @@
 # ScriptBash
-Script de Criação de Estrutura de Usuários, Diretórios e Permissões
+Script de Criação de Estrutura de Usuários, Diretórios e Permissões para linux.
